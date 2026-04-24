@@ -22,6 +22,10 @@ The program allows users to interactively filter the data by city, month, and da
 The bikeshare data used in this project comes from public bikeshare systems in U.S. cities and represents trip data collected during the first six months of the year.
 
 
+## Requirements
+- Python 3.x
+- pandas library
+
 ## Notes
 CSV data files are intentionally excluded from the GitHub repository using `.gitignore` due to large file 
 
