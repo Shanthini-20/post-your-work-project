@@ -7,6 +7,7 @@
 import time
 import pandas as pd
 
+# CITY_DATA maps city names to their CSV files
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york city': 'new_york_city.csv',
