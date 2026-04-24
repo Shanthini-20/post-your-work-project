@@ -1,7 +1,13 @@
 
+# Bikeshare Data Analysis Program
+# This script allows users to explore bikeshare data
+# by city, month, and day of the week.
+``
+
 import time
 import pandas as pd
 
+# CITY_DATA maps city names to their CSV files
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york city': 'new_york_city.csv',
